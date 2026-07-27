@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a sample project for learning GitHub and README creation.
 
-## Features
+## function
 - Simple project structure
 - Instructions for installation and usage
 - Basic documentation
